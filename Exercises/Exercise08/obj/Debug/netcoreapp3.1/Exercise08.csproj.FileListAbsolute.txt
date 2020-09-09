@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.exe
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.deps.json
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.runtimeconfig.json
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.runtimeconfig.dev.json
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.dll
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\bin\Debug\netcoreapp3.1\Exercise08.pdb
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.AssemblyInfo.cs
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.dll
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.pdb
+C:\Users\User\Desktop\Quantico06\ISTA322\Exercises\Exercise08\obj\Debug\netcoreapp3.1\Exercise08.genruntimeconfig.cache
