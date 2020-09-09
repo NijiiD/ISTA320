@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\Users\User\Desktop\Quantico06\ISTA322\Labs\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb
